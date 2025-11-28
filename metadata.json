@@ -1,0 +1,8 @@
+{
+  "name": "PawHub Pakistan",
+  "description": "Pakistan's first verified pet ecosystem featuring a 3-tier verification system, digital pet IDs, AI price estimation, and a trusted marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
